@@ -1,6 +1,5 @@
 # Click Program
-This simple program clicks specific X and Y positions on the desktop.
-
+This simple program clicks the X and Y positions on the desktop at a specific timer.
 
 ## Programming language:
 This project Create With Delphi Embarcadero 10.1 And MySQL Database.
