@@ -1,5 +1,5 @@
 # Click Program
-This program clicks specific X and Y positions on the desktop.
+This simple program clicks specific X and Y positions on the desktop.
 
 
 ## Programming language:
